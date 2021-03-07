@@ -1,2 +1,2 @@
 # ITIS-Homework
-Homework repository
+Repository for homework tasks
