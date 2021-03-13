@@ -11,22 +11,14 @@ namespace ListImplementation
 	{
 		static void Main(string[] args)
 		{
-			List<int> b = new List<int>();
-			FakeList<int> a = new FakeList<int>();
+			FakeList<string> a = new FakeList<string>();
 
-			for (int i = 0; i < 10; i++)
-			{
-				Random r = new Random();
-				a.Add(r.Next(100));
-			}
+			a.Add("Hello world");
+			a.Add("Hello");
+			a.Add("Hello");
+			a.Add("Hello");
 
-			Stopwatch stopwatch = Stopwatch.StartNew();
-			
-			stopwatch.Stop();
-
-			Console.WriteLine($"elapsed: {stopwatch.ElapsedMilliseconds}ms");
-
-			a.Sort();
+			FakeList<string>.All_eq(a);
 
 			foreach (var item in a)
 			{

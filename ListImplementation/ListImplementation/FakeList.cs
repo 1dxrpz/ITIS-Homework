@@ -5,9 +5,6 @@ using System.Text;
 
 namespace ListImplementation
 {
-	
-
-	
 	class FakeList<T>
 	{
 		private int count = 0;
@@ -45,6 +42,13 @@ namespace ListImplementation
 					throw new System.ArgumentOutOfRangeException();
 				else
 					return array[i];
+			}
+			set
+			{
+				if (i >= this.count)
+					throw new System.ArgumentOutOfRangeException();
+				else
+					array[i] = value;
 			}
 		}
 		public void Remove (T element)
@@ -86,6 +90,34 @@ namespace ListImplementation
 			Array.Resize<T>(ref temp, count);
 			array = temp;
 			Array.Sort<T>(array);
+		}
+		public void ChangeMin()
+		{
+			T[] temp = (T[])array.Clone();
+			Array.Resize<T>(ref temp, count);
+			Array.Sort<T>(temp);
+			int min = Array.FindIndex<T>(array, v => v.Equals(temp[0]));
+			int max = Array.FindIndex<T>(array, v => v.Equals(temp[count - 1]));
+
+			T temp_item = array[min];
+			array[min] = array[max];
+			array[max] = temp_item;
+		}
+		static public void All_eq(FakeList<string> list)
+		{
+			FakeList<string> temp = new FakeList<string>();
+			for (int i = 0; i < list.count; i++)
+				temp.Add(list[i]);
+			temp.Sort();
+			int length = temp[temp.count - 1].Length;
+			for (int i = 0; i < list.count; i++)
+			{
+				StringBuilder sb = new StringBuilder();
+				sb.Append(list[i]);
+				for (int n = list[i].Length; n < length; n++)
+					sb.Append("_");
+				list[i] = sb.ToString();
+			}	
 		}
 	}
 }
