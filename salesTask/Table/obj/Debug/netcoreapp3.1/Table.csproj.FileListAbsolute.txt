@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.exe
+C:\Users\HP\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.deps.json
+C:\Users\HP\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.json
+C:\Users\HP\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.dll
+C:\Users\HP\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.pdb
+C:\Users\HP\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfo.cs
+C:\Users\HP\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.dll
+C:\Users\HP\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.pdb
+C:\Users\HP\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.genruntimeconfig.cache
