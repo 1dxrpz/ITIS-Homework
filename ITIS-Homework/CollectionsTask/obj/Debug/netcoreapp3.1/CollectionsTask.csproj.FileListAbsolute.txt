@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.exe
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.deps.json
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.runtimeconfig.json
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.dll
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.pdb
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.AssemblyInfo.cs
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.dll
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.pdb
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.genruntimeconfig.cache
+C:\Users\HP\source\repos\ITIS-Homework\ITIS-Homework\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.csprojAssemblyReference.cache
